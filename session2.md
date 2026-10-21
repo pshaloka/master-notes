@@ -21,11 +21,13 @@
     - old town of stone, new construction of brick and clay, maybe about 5,000 people live here. 
     - votive candles flicker in laterns hung from most doors
     - wealthier, larger homes decorated with wax masks set about trees carved into the stone or brick facades of the homes 
-    - Miller's local open-air gathering hall, tables are large, broken millstoes in various states of disrepair 
+    - Miller's local open-air gathering hall, tables are large, broken millstones in various states of disrepair 
     - Gilded Lily is a nicer inn 
 5. Court of the Turtle Knight 
-    - filled with children
-    - preparing for the upcoming festival 
+    - filled with children, hustle and bustle
+    - strong, thick stone walls with deep moat, keep made of textured stone that looks like coral
+    - Sea Hall: windows hung with thin blue tapestries, columns carved to look like sea creatures, roof set with coral and rock clusters and shells
+    - preparing for the upcoming festival (Feast of the Stars, night of honors, unions, and contests - tension)
     - wants to show everyone a good time, worried about troubling reports of the Dead from the south: really wants the knights to go see the Seer and take care of it
     - will wine and dine them, take them on a hunt, anything to encourage them to take care of the Dead as soon as possible
 6. Around Town 
